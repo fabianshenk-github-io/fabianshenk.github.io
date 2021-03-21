@@ -1,6 +1,4 @@
 # fabianshenk.github.io
-# fabian.shenk
-  
 <!DOCTYPE html>
 
 <html>
