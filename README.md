@@ -48,7 +48,7 @@
 
 </br>
     <p><div class="box">
-        <img src="fshenk.png"  title="This is the Fabian Shenk">
+        <img src="https://github.com/fabianshenk-github-io/fabianshenk.github.io/blob/e0718d97bb548e8a8ae4880c3890c255ce333966/fshenk.png"  title="This is the Fabian Shenk">
     </p></div>
     
     </div>
