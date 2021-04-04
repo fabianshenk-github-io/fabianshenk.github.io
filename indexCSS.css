@@ -1,0 +1,88 @@
+.box {
+    width: 350px;
+    height: 348px;
+    border: 10px inset #442104a9;
+}
+#img1 {
+    width: 100%;
+    height: 100%;
+}
+.logo{
+    width: 50%;
+    height: 50%;
+}
+#MASalign{
+    width: 90%;
+    margin: 10px auto;
+    padding: 15px;
+    border: 6px solid #cccccc;
+}
+.alignleft{
+        float: left;
+}
+.alignright {
+    float: right;
+}                    
+
+hr.style-eight {
+        height: 10px;
+        border: 1;
+        box-shadow: inset 0 9px 9px -3px rgba(11, 99, 184, 0.8);
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        -ms-border-radius: 5px;
+        -o-border-radius: 5px;
+        border-radius: 5px;
+}
+
+.wrap {
+    position: relative;
+    display: inline-block;
+}
+
+.span1 {
+    background-color: #e9bc68;
+}
+
+.span2 {
+    position: relative;
+    display: inline-block;
+    background-color: #a7896259;
+}
+
+#MASalign1{
+    width: 100%;
+    margin: 10px auto;
+    padding: 15px;
+    border: 8px solid #7e6e6e;
+}
+
+.main {
+    text-align: justify;
+}
+
+h2{
+      font: italic;
+      color: #505050;
+      font-weight: 800;
+      font-size: 18;
+}
+
+.employerName{
+    color:#500000;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+a:hover {
+    cursor: alias;
+}
+
+a:link {
+    color: #500000;
+    font-weight: bolder;
+}
+
+a {
+    color:inherit;
+}
