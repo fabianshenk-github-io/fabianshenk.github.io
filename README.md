@@ -25,7 +25,7 @@
             <h1 style="text-align: center;">Fabian B. Shenk
                 <hr style="line-height: 4px;">
             </h1>
-            <a href="mailto:fshenk@asu.edu">Send email</a>
+            <a href="mailto:fshenk@asu.edu">Send email to Fabian Shenk</a>
             <br>
             </br>
             <a href="https://www.linkedin.com/in/fabianshenk/" target="_blank"> Click to visit Fabian's profile</a>
