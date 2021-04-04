@@ -4,14 +4,12 @@
 
 <head>
     <title>Fabian's Resume Information</title>
-    <style></style>
     <link rel="stylesheet" type="text/css" href="indexCSS.css">
-    <script></script>
 </head>
 
 <body>
     <div id="MASalign" class="wrap span1">
-        <img src="images/arizona-state-university-logo.png" title="This is the ASU logo">
+        <img src="arizona-state-university-logo.png" title="This is the ASU logo">
         <br>
         <h1 style="text-align: center;"><b>Arizona State University Student Resume</b>
             <hr style="line-height: 4px;">
@@ -21,7 +19,7 @@
     </br>
     <div class="wrap span2">
         <div class="box span2">
-            <img id="img1" src="images\fshenk.png" title="This is Fabian Shenk">
+            <img id="img1" src="fshenk.png" title="This is Fabian Shenk">
         </div>
         <div id="MASalign" class="wrap span1 alignleft">
             <h1 style="text-align: center;">Fabian B. Shenk
