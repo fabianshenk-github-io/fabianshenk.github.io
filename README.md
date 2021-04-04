@@ -10,7 +10,7 @@
     
 <body>
     <div id="MASalign" class="wrap span1">
-        <img src="images/arizona-state-university-logo.png" title="This is the ASU logo">
+        <img src="arizona-state-university-logo.png" title="This is the ASU logo">
         <br>
         <h1 style="text-align: center;"><b>Arizona State University Student Resume</b>
             <hr style="line-height: 4px;">
@@ -22,7 +22,7 @@
 </br>
 <div class="wrap span2">
     <div class="box span2">
-        <img id="img1" src="images\fshenk.png" title="This is Fabian Shenk">
+        <img id="img1" src="fshenk.png" title="This is Fabian Shenk">
     </div>
 
     <div id="MASalign" class="wrap span1 alignleft">
@@ -67,7 +67,6 @@
             departments to complete the tasks accordingly and efficiently<br>
             Process permit, subdivision plats, and other documentation requiring geodetic processing and modeling where
             utility and infrastructure work for new installation, repairs, or rehabilitation.<br>
-
         </br>
         </ul>
     </li>
@@ -91,7 +90,6 @@
             fluids, solids, effluents, etc., from sample locations to lab<br>
             Assisted engineers with processing technical plan reviews and SWPPP design documents, obtain records, and
             established technical communication<br>
-
         </br>
         </ul>
     </li>
@@ -107,7 +105,6 @@
             Collector Application produced for tree collection<br>
             Gained experience in reviewing data integration and integrity through relational databases and performing
             attribute field queries in an enterprise setting<br>
-
         </br>
         </ul>
     </li>
@@ -134,7 +131,6 @@
             use codes using the Development and Standards by the COT and AASHTO Sight Visibility Triangle Process of
             evaluation
             <br>
-
         </br>
         </ul>
     </li>
@@ -153,7 +149,6 @@
             Organized office records and compiled files electronically to maintain historical records in both electronic
             and manual format<br>
             Knowledge of local government process and ability to research records for customers<br>
-
         </br>
         </ul>
     </li>
