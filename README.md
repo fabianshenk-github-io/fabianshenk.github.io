@@ -22,7 +22,7 @@
 </br>
 <div class="wrap span2">
     <div class="box span2">
-        <img id="img1" src="images\fshenk.png" title="This is the Fabian Shenk">
+        <img id="img1" src="images\fshenk.png" title="This is Fabian Shenk">
     </div>
 
     <div id="MASalign" class="wrap span1 alignleft">
