@@ -106,7 +106,7 @@
             <li class="alignleft"><b>GIS Database Manager, University of Arizona Arboretum</b><i
                     class="alignright">October 2017 to March 2018</i><br>
                 <div class="employerName">
-                    <a href="https://www.tucsonaz.gov/" target="_blank"> <code>City of Tucson</code></a>
+                    <a href="https://arboretum.arizona.edu/contact" target="_blank"> <code>UArizona Arboretum</code></a>
                 </div>
                 <hr style="line-height: 4px;">
                 <ul>
